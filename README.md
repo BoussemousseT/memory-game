@@ -10,7 +10,7 @@ Ce jeu a été développé dans le cadre du projet de fin du cours *Javascript*
 
 
 ## Règles du jeu
-> Le jeu consiste à trouver 8 paires d'images en un temps record.
+	- Le jeu consiste à trouver 8 paires d'images en un temps record.
 	- Les images cachées par un '?' sont celles dont il faut trouver les paires. 
 	- Elles sont placées aléatoirement dans la grille.
 	- Une partie débute lorsque l'utilisateur clique sur le bouton "Nouvelle Partie" et se prolonge tant et aussi longtemps que toutes les images n'auront pas été trouvées ou que l'utilisateur n'aura pas cliqué sur le bouton "arrêter la partie"
