@@ -248,6 +248,7 @@ h1, h2 {
 
     #cardsContainer::before {
         content: "La taille de votre appareil est trop petite pour jouer. Veuillez utiliser un appareil avec un écran plus grand.";
+        text-transform: uppercase;
         display: block;
         font-family: Arial, Helvetica, sans-serif;
         font-weight: bolder;
